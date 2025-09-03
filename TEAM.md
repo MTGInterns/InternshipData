@@ -7,7 +7,7 @@ This file contains details of all interns working.
 ## Team Members
 
 ### 🚀 Project Mentors
-- **Name:** Neha Gupta , Sanjay Bhargava , Abhijeet Thorat , Jay Nagraj , Shubhangni Asati  
+- **Name:** Neha Gupta , Sanjay Bhargava , Abhijeet Thorat , Jay Sawant , Shubhangni Asati  
 - **Role:** Mentor / Project Supervisor  
 ---
 
